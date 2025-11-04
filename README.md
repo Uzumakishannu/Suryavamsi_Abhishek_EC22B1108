@@ -3,10 +3,7 @@
 ### Developer: **Suryavamsi Abhishek** 
 
 ---
-
-## 🎥 Demo Video
-
-> 🎬 Watch the walkthrough demo here:  
+ 
 > ## 🎥 Project Demo
 
 [![Watch the demo](assets/__Gemscap__.mp4)
