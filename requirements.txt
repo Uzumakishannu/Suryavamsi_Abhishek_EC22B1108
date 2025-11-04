@@ -1,0 +1,10 @@
+streamlit>=1.20
+websockets>=11.0
+pandas>=2.0
+numpy>=1.24
+statsmodels>=0.14
+scipy>=1.9
+python-dotenv>=1.0
+python-dateutil
+streamlit-autorefresh>=0.0.1
+kaleido==0.2.1
