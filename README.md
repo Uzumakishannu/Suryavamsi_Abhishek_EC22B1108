@@ -1,8 +1,6 @@
 # 📊 Quant Analytics Lab — Real-Time Market Data System
 
-### Developer: **Suryavamsi Abhishek**  
-**Role:** Quantitative Developer Assignment  
-**Company:** [Confidential Company Name]
+### Developer: **Suryavamsi Abhishek** 
 
 ---
 
