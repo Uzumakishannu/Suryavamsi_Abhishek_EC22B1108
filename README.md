@@ -7,7 +7,11 @@
 ## 🎥 Demo Video
 
 > 🎬 Watch the walkthrough demo here:  
-> [**[assets](assets/""C:\Users\shann\Downloads\__Gemscap__.mp4"")**  ](https://github.com/Uzumakishannu/Suryavamsi_Abhishek_EC22B1108/blob/main/assets/demo.mp4
+> ## 🎥 Project Demo
+
+[![Watch the demo](assets/demo_thumbnail.png)](assets/demo.mp4)
+> Click the thumbnail above to view the full demo video.
+
 )
 
 This short video shows the app running live — including the Binance WebSocket connection, real-time analytics, alert generation, and Streamlit dashboard interaction.
