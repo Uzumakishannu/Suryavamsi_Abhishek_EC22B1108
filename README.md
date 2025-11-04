@@ -7,7 +7,7 @@
 ## 🎥 Demo Video
 
 > 🎬 Watch the walkthrough demo here:  
-> **[assets](assets/"C:\Users\shann\Videos\Screen Recordings\Gemscap_ec22b1108.mp4")**  
+> **[assets](assets/""C:\Users\shann\Downloads\__Gemscap__.mp4"")**  
 
 This short video shows the app running live — including the Binance WebSocket connection, real-time analytics, alert generation, and Streamlit dashboard interaction.
 
