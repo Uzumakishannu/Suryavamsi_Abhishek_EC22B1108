@@ -9,8 +9,8 @@
 > 🎬 Watch the walkthrough demo here:  
 > ## 🎥 Project Demo
 
-[![Watch the demo](assets/demo_thumbnail.png)](assets/demo.mp4)
-> Click the thumbnail above to view the full demo video.
+[![Watch the demo](assets/__Gemscap__.mp4)
+> Click the above to view the full demo video.
 
 )
 
